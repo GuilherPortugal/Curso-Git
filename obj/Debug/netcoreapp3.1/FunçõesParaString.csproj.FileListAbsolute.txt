@@ -1,0 +1,13 @@
+C:\Users\Guilherme.Portugal\Desktop\FunçõesParaString\bin\Debug\netcoreapp3.1\FunçõesParaString.exe
+C:\Users\Guilherme.Portugal\Desktop\FunçõesParaString\bin\Debug\netcoreapp3.1\FunçõesParaString.deps.json
+C:\Users\Guilherme.Portugal\Desktop\FunçõesParaString\bin\Debug\netcoreapp3.1\FunçõesParaString.runtimeconfig.json
+C:\Users\Guilherme.Portugal\Desktop\FunçõesParaString\bin\Debug\netcoreapp3.1\FunçõesParaString.runtimeconfig.dev.json
+C:\Users\Guilherme.Portugal\Desktop\FunçõesParaString\bin\Debug\netcoreapp3.1\FunçõesParaString.dll
+C:\Users\Guilherme.Portugal\Desktop\FunçõesParaString\bin\Debug\netcoreapp3.1\FunçõesParaString.pdb
+C:\Users\Guilherme.Portugal\Desktop\FunçõesParaString\obj\Debug\netcoreapp3.1\FunçõesParaString.csprojAssemblyReference.cache
+C:\Users\Guilherme.Portugal\Desktop\FunçõesParaString\obj\Debug\netcoreapp3.1\FunçõesParaString.AssemblyInfoInputs.cache
+C:\Users\Guilherme.Portugal\Desktop\FunçõesParaString\obj\Debug\netcoreapp3.1\FunçõesParaString.AssemblyInfo.cs
+C:\Users\Guilherme.Portugal\Desktop\FunçõesParaString\obj\Debug\netcoreapp3.1\FunçõesParaString.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme.Portugal\Desktop\FunçõesParaString\obj\Debug\netcoreapp3.1\FunçõesParaString.dll
+C:\Users\Guilherme.Portugal\Desktop\FunçõesParaString\obj\Debug\netcoreapp3.1\FunçõesParaString.pdb
+C:\Users\Guilherme.Portugal\Desktop\FunçõesParaString\obj\Debug\netcoreapp3.1\FunçõesParaString.genruntimeconfig.cache
